@@ -9,6 +9,26 @@ Sales-Performance-Dashboard/
     ├── executive-sales-overview.png
     ├── regional-product-analysis.png
     └── salesperson-channel-analysis.png
+## 🎯 Business Problems
+
+The objective of this project is to analyze sales performance, profitability, and operational efficiency using Power BI and identify opportunities for business improvement.
+
+The analysis focuses on the following business questions:
+
+1. **Regional Sales Performance:** Which regions generate the highest and lowest sales and profits?
+2. **Product Category Analysis:** Which product categories contribute the most to sales, profit, and units sold?
+3. **Salesperson Performance:** Which salespeople generate the highest sales and profit, and how does performance vary across the team?
+4. **Sales Channel Analysis:** How do Online, Retail, and Wholesale channels compare in terms of sales and profitability?
+5. **Profitability Analysis:** What is the overall profit margin, and how does it vary across different regions?
+6. **Discount Analysis:** How do average discount percentages vary across regions, and is there a potential relationship between discounts and profit margins?
+7. **Business Improvement Opportunities:** Which regions, product categories, salespeople, and sales channels should management investigate to improve overall business performance?
+
+## 🎯 Project Objectives
+
+- Evaluate overall sales and profitability using key performance indicators (KPIs).
+- Compare performance across regions, product categories, salespeople, and sales channels.
+- Identify high-performing and underperforming business segments.
+- Generate actionable insights to support data-driven decision-making.
 
     ## Top 5 Business Insights
 
@@ -19,6 +39,7 @@ The West region generated approximately 29 million in revenue and 7 million in p
 Revenue across the five product categories ranges from approximately 20 million to 23 million. No single category overwhelmingly dominates total revenue, indicating a relatively balanced revenue contribution across the product portfolio.
 
 **3. Clothing Leads in Units Sold**  
+
 Clothing recorded the highest sales volume at approximately 109K units, followed by Electronics at 103K units. However, higher sales volume does not necessarily translate into higher profitability, so category-level profit margins should also be considered when making business decisions.
 
 **4. Sales Channel Performance Is Competitive**  
